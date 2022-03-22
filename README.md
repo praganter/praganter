@@ -1,13 +1,11 @@
-### Hi there 👋
+<h1 align=center> Batuhan YETGİN</h1> 
+
+<h4 align = center> Mobile Flutter Developerdreaming of being IOS/Swift Developer</h4>
 
 
-**praganter/praganter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=praganter&show_icons=true&theme=midnight-purple" alt="Famous GitHub Stats Card" />  
 
-- 🔭 I’m currently working as Flutter Developer
-- 🌱 I’m currently learning Swift and UIKit
-- 📫 How to reach me: 
+<!--- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praganter&layout=compact&theme=midnight-purple" lat="Most used languages/> --->
 
-[![Famous Stat Chart](https://github-readme-stats.vercel.app/api?username=praganter)](https://github.com/praganter/github-readme-stats)
 
