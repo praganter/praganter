@@ -2,7 +2,7 @@
 <br>
 <h4 align=center> <a href="https://batuhanyetgin.dev/" align=center>Contact Me</a> </h4>
 <br>
-<h3 align = center> Mobile Flutter Developer dreaming of being IOS/Swift Developer</h3>
+<h3 align = center> Mobile Flutter Developer dreaming of being IOS Developer</h3>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=praganter&show_icons=true&theme=midnight-purple" alt="Famous GitHub Stats Card" />  
 <br>
